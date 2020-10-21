@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import run.qontract.test.QontractJUnitSupport;
 
-public class PetstoreEndpointTest extends QontractJUnitSupport {
+public class PetstoreContractTests extends QontractJUnitSupport {
     static ConfigurableApplicationContext context;
 
     @BeforeAll
